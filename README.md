@@ -1,16 +1,13 @@
-### Hi there, Im Jerry Lott 👋
+# Hi there, Im Jerry Lott 👋
 
-<!--
-**lottjerry/lottjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Freelancer whom is currently looking for employment.
 
-Here are some ideas to get you started:
+Recent CSC Grad. with a minor in mathematics. Although i have 0 experience on the job, I have alot of experience developing real world projects. I spend most of my time developing my [personal website](https://jerrylott.com). I'm in the process of volunteering to work on local business websites to build up my portfolio. Although I have a passion for Web Dev, python is my favorite language. I'm a tech Enthusiast, fast learner, whom loves to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-lottjerry-black)](https://github.com/lottjerry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jerrylott-blue)](https://www.linkedin.com/in/jerrylott/)
+[![Website](https://img.shields.io/badge/Website-jerrylott.com-white)](https://jerrylott.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lottjerry&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)](https://jerrylott.com)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lottjerry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://jerrylott.com)
