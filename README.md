@@ -2,7 +2,7 @@
 
 ### Freelancer whom is currently looking for employment.
 
-Recent Computer Science with a minor in mathematics. Although i have 0 experience on the job, I have alot of experience developing real world projects. I spend most of my time developing my [personal website](https://jerrylott.com). I'm in the process of volunteering to work on local businesses websites in order to build up my portfolio. Although I have a passion for Web and Software Development, I also love art and graphic design even though they are not my strong points. I'm a tech Enthusiast, fast learner, whom loves to learn new things.
+Recent Computer Science Graduate with a minor in mathematics. Although i have 0 experience on the job, I have alot of experience developing real world projects. I spend most of my time developing my [personal website](https://jerrylott.com). I'm in the process of volunteering to work on local businesses websites in order to build up my portfolio. Although I have a passion for Web and Software Development, I also love art and graphic design even though they are not my strong points. I'm a tech Enthusiast, fast learner, whom loves to learn new things.
 
 [![GitHub](https://img.shields.io/badge/GitHub-lottjerry-black)](https://github.com/lottjerry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jerrylott-blue)](https://www.linkedin.com/in/jerrylott/)
